@@ -9,7 +9,13 @@ Este repositório guarda **só os downloads do jogo**. O código-fonte é privad
 1. Abra a [última versão](../../releases/latest) e baixe o **EchoesOfEternia-cliente.zip**.
 2. Descompacte numa pasta sua (por exemplo, Documentos ou Área de Trabalho) e abra o **EchoesOfEternia.exe**.
    - Se aparecer "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo**. O jogo não tem assinatura digital.
-3. No menu, clique em **Criar conta**. O servidor já vem preenchido.
+3. No menu, clique em **Criar conta**. O servidor já vem preenchido:
+
+   | Servidor | Porta |
+   |---|---|
+   | `152.67.51.151` | `7777` |
+
+   Se o campo estiver com outro endereço, digite estes.
 
 O arquivo `COMO_JOGAR.txt`, dentro do zip, explica os controles e o chat. No jogo, o F1 mostra a ajuda.
 
