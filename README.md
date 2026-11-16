@@ -21,4 +21,6 @@ Se a pasta do jogo não deixar gravar (por exemplo, `Arquivos de Programas`), o 
 
 ## Licenças
 
-A arte, as músicas e parte dos sons são do Ninja Adventure Asset Pack (Pixel-Boy & AAA). Os outros sons são do Kenney. Tudo é CC0. As fontes Pixelify Sans e Jacquard estão sob a OFL.
+- **Arte e músicas:** Ninja Adventure Asset Pack (Pixel-Boy & AAA), CC0.
+- **Sons:** parte do Kenney (CC0); o resto foi gerado para o jogo.
+- **Fontes:** Pixelify Sans e Jacquard 12/24 sob a SIL OFL 1.1; Kenney Mini, CC0.
