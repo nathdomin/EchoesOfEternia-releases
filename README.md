@@ -2,7 +2,7 @@
 
 MMORPG em pixel art feito em Godot 4. Tem servidor dedicado, contas, personagens salvos e até 16 jogadores.
 
-Este repositório guarda **só os downloads do jogo**. O código-fonte é privado.
+Este repositório guarda **só os downloads do jogo**. O código-fonte é aberto (licença MIT) e está em [nathdomin/EchoesOfEternia](https://github.com/nathdomin/EchoesOfEternia).
 
 ## Como jogar
 
